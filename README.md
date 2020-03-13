@@ -5,4 +5,6 @@
 
 荣获2017年学院技能大赛3等奖。
 
-![image](https://github.com/qxlx/DaZiGame/.png)
+![image](https://github.com/qxlx/DaZiGame/打字游戏编程.png)
+![image](https://github.com/qxlx/DaZiGame/打字游戏编程2.png)
+![image](https://github.com/qxlx/DaZiGame/打字游戏编程3.png)
